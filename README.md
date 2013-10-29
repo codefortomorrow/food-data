@@ -7,5 +7,5 @@ food
 
 有了這個食品資料庫，將能讓消費者吃得更聰明、更安心；並協助食品製造商了解消費者需求，透過使用回饋，研發更健康、更符合市場需求的產品。
 
-計畫的公開簡報檔
-http://www.slideshare.net/ckliu/cft-food-23023218
+網站 http://food.codefortomorrow.org
+計畫的公開簡報檔 http://www.slideshare.net/ckliu/cft-food-23023218
